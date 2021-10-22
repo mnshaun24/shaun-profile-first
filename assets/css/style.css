@@ -1,0 +1,61 @@
+:root {
+    --primary-color: #f93943;
+    --secondary-color: #7eb2dd;
+    --tertiary-color: #dda97e;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: var(--tertiary-color);
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Header and nav bars */
+
+header {
+    padding: 20px 35px;
+    background-color: var(--secondary-color);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-image: url(../images/joshua-reddekopp-GkFQEOubrCo-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header h1 {
+    font-weight: bold;
+    margin: 0;
+    font-size: 50px;
+}
+
+header a {
+    color: var(--secondary-color);
+}
+
+header nav {
+    margin: 10px 0;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    align-items: right;
+}
+
+header nav ul li a {
+    padding: 10px 30px;
+    font-size: 1.7vw;
+}
+
+/* INSERT HOVER HERE LATER */
+
+/* Header end */

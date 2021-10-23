@@ -112,6 +112,7 @@ header nav ul li a {
     flex: 1;
 }
 
-.shaun-img {
-    max-width: 500px;
+img {
+    width: 100%;
 }
+

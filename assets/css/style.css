@@ -70,6 +70,7 @@ header nav ul li a {
     align-items: flex-end;
     background-attachment: fixed;
     background-position: 80%;
+    padding-bottom: 9%;
 }
 
 .hero-about {
@@ -127,3 +128,73 @@ header nav ul li a {
     padding-left: 80px;
 }
 
+.works {
+   background: var(--tertiary-color);
+   color: black;
+}
+
+.work {
+    margin: auto;
+    padding-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.work-left {
+    border-right: 3px solid;
+}
+
+.work-left h3 {
+    flex: 1 40%;
+    font-size: 60px;
+    padding-right: 160px;
+}
+
+.work-right {
+    flex: 1 60%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+}
+
+.work-right img {
+    width: 100%;
+    flex: 1 15%;
+    opacity: .9;
+}
+
+.page-right {
+    max-width: 75%;
+    padding: 25px;
+}
+
+.description {
+    font-size: 30px;
+}
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: black;
+    color: var(--primary-color);
+    justify-content: space-around;
+}
+
+.contact-me h3 {
+    font-size: 60px;
+    flex: 1;
+}
+
+.contact-info   {
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 30px;
+    margin: 60px;
+    justify-content: space-evenly;
+}

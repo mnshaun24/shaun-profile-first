@@ -14,7 +14,7 @@ A professional and deployed portfolio to showcase my work
 https://mnshaun24.github.io/weekly-challenge-two/
 
 ## Screenshot
-![screenshot of work](images/Week Two Shot.PNG)
+![screenshot of work](assets/images/Week%20Two%20Shot.PNG)
 
 ## Contribution
 Shaun Sticka

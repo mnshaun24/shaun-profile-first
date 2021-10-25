@@ -10,7 +10,11 @@ A professional and deployed portfolio to showcase my work
 * HTML
 * CSS
 
-## Website
+## Live Application Link
+https://mnshaun24.github.io/weekly-challenge-two/
+
+## Screenshot
+
 
 ## Contribution
 Shaun Sticka

@@ -211,6 +211,12 @@ header nav ul li a:hover    {
     justify-content: space-evenly;
 }
 
+.info {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: left;
+}
+
 /* Media query for smaller desktop screens and below */
 @media screen and (max-width: 980px) {
     .work {

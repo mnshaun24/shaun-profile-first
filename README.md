@@ -1,7 +1,7 @@
 ## Shaun's Portfolio
 
 ## About
-This is my first professional profile. I built this only weeks into my coding life. The plan is to replace this profile with an updated version, using modern technologies such as React. 
+This is my first professional profile. I built this only weeks into my coding life and the first project I ever built from nothing. I am in the process of building an updated version, using modern technologies such as React.
 
 ## Purpose
 A professional and deployed portfolio to showcase my work and provide employers of a snapshot of my professional history

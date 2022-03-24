@@ -1,10 +1,10 @@
 ## Shaun's Portfolio
 
-## Assignment
-This portfolio fulfils the weekly challenge week two assignment
+## About
+This is my first professional profile. I built this only weeks into my coding life. The plan is to replace this profile with an updated version, using modern technologies such as React. 
 
 ## Purpose
-A professional and deployed portfolio to showcase my work
+A professional and deployed portfolio to showcase my work and provide employers of a snapshot of my professional history
 
 ## Built With
 * HTML
